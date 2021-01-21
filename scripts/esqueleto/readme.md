@@ -1,0 +1,3 @@
+-- o objetivo é fazer uma limpeza da query para ver sua estrutura principal
+-- apenas o seu esqueleto e todos os seus comentários
+-- mostrar estatisticas da query, numero de ifs, numero de loops
