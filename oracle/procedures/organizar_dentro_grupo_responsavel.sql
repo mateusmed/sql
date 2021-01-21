@@ -1,6 +1,4 @@
-
 /*
-	Encoding: ISO 8859-1
 	Objetivo: Organizar itens dentro grupo 'X' para o contexto Y
 */
 
